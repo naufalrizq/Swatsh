@@ -6,4 +6,5 @@ Website yang menyediakan list lokasi lapangan terbuka hijau
 Data yang ditampilkan :
 - Gambar Lokasi
 - Nama & deskripsi tempat
+- Fasilitas yang ada dilokasi tersebut
 ```
