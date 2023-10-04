@@ -9,3 +9,4 @@ Data yang ditampilkan :
 - Nama & deskripsi tempat
 - Fasilitas yang ada dilokasi tersebut
 ```
+
