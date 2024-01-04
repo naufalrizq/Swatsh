@@ -4,7 +4,6 @@
 Website yang menyediakan list lokasi lapangan terbuka hijau, dengan menggunakan tampilan maps dengan menggunakan MapBox API
 ```
 
-
 Data yang ditampilkan :
 - Gambar Lokasi
 - Nama & deskripsi tempat
