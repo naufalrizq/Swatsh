@@ -11,5 +11,3 @@ Data yang ditampilkan :
 ```
 
 
-
-
